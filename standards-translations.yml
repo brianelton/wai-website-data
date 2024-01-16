@@ -1,6 +1,6 @@
 - standard: wcag
   versions:
-    - 2.0:
+    - version: 2.0
       en_title: "Web Content Accessibility Guidelines (WCAG) 2.0"
       translations:
         - lang: ca
@@ -92,7 +92,7 @@
           url: http://www.w3.org/translations/wcag20-zh/
           type: authorized
           translator: "W3C China Host, Beihang"
-    - 2.1:
+    - version: 2.1
       en_title: "Web Content Accessibility Guidelines (WCAG) 2.1"
       translations:
         - lang: ar
@@ -155,7 +155,7 @@
           url: https://www.w3.org/Translations/WCAG21-zh/
           type: authorized
           translator: "Zhejiang University"
-    - 2.2:
+    - version: 2.2
       en_title: "Web Content Accessibility Guidelines (WCAG) 2.2"
       translations:
         - lang: it
@@ -165,7 +165,7 @@
           translator: "International Web Association"
 - standard: atag
   versions:
-    - 2.0:
+    - version: 2.0
       en_title: "Authoring Tool Accessibility Guidelines (ATAG) 2.0"
       translations:
         - lang: zh-hans
