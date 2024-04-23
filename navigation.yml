@@ -2,12 +2,14 @@
     en: "Accessibility Fundamentals"
     es: "Fundamentos de accesibilidad"
     fr: "Fondamentaux de l'accessibilité"
+  translate: true
   pages:
   - name:
       en: 'Accessibility Fundamentals'
       es: 'Fundamentos de accesibilidad'
       fr: "Fondamentaux de l'accessibilité"
     url: "/fundamentals/"
+    translate: true
   - name: Changelog
     url: "/fundamentals/changelog/"
     hide: true
@@ -21,6 +23,7 @@
       ru: "ВВЕДЕНИЕ В ВЕБ-ДОСТУПНОСТЬ"
       zh-hans: "Web无障碍简介"
     url: "/fundamentals/accessibility-intro/"
+    translate: true
     pages:
     - name:
         en: 'Video Introduction'
@@ -35,6 +38,7 @@
         ru: 'Введение'
         zh-hans: '视频介绍'
       url: "/videos/standards-and-benefits/"
+      translate: true
       pages:
       - name:
           en: Changelog
@@ -49,52 +53,64 @@
         hide: true
   - name: "Accessibility is About People"
     url: "/people/"
+    translate: true
     pages:
     - name:
         en: "Perspectives Videos"
         fr: "Vidéos d'illustration"
       url: "/perspective-videos/"
+      translate: true
       pages:
       - name:
           en: "Keyboard Compatibility"
           fr: "Compatibilité avec le clavier"
         url: "/perspective-videos/keyboard/"
+        translate: true
       - name:
           en: "Colors with Good Contrast"
           fr: "Couleurs bien constratées"
         url: "/perspective-videos/contrast/"
+        translate: true
       - name:
           en: "Clear Layout and Design"
           fr: "Mise en page et design clairs"
         url: "/perspective-videos/layout/"
+        translate: true
       - name:
           en: "Text to Speech"
           fr: "Synthèse vocale"
         url: "/perspective-videos/speech/"
+        translate: true
       - name:
           en: "Large Links, Buttons, and Controls"
           fr: "Liens, boutons et composants assez grands"
         url: "/perspective-videos/controls/"
+        translate: true
       - name:
           en: "Video Captions"
           fr: "Sous-titres de vidéo"
         url: "/perspective-videos/captions/"
+        translate: true
       - name:
           en: "Customizable Text"
           fr: "Texte personnalisable"
         url: "/perspective-videos/customizable/"
+        translate: true
       - name:
           en: "Speech Recognition"
           fr: "Reconnaissance vocale"
         url: "/perspective-videos/voice/"
+        translate: true
       - name:
           en: "Understandable Content"
           fr: "Contenu compréhensible"
         url: "/perspective-videos/understandable/"
+        translate: true
       - name:
           en: "Notifications and Feedback"
           fr: "Notifications et retours"
         url: "/perspective-videos/notifications/"
+        translate: true
       - name:
           en: "Acknowledgements"
         url: "/perspective-videos/acknowledgements/"
@@ -104,6 +120,7 @@
         fr: "Comment les personnes handicapées utilisent le web"
         es: "Cómo usan la web las personas con discapacidad"
       url: "/people-use-web/"
+      translate: true
       pages:
       - name:
           en: "Stories of Web Users"
